@@ -81,3 +81,13 @@ ul {
     object-fit:cover;
     padding: 8% 8%;
 }
+.container-3 {
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10% 30%;
+    gap: 20px;
+
+}
