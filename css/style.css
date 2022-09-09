@@ -91,7 +91,7 @@ ul {
     gap: 20px;
 }
 .container-4 {
-    padding: 10% 20%;
+    padding: 5% 20%;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -108,5 +108,13 @@ ul {
 
 .right-content button {
     width: 100px;
+}
+.footer {
+    background-color: #1f2937;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 70px;
 }
 
