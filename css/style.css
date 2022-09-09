@@ -89,5 +89,24 @@ ul {
     align-items: center;
     padding: 10% 30%;
     gap: 20px;
-
 }
+.container-4 {
+    padding: 10% 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.call-to-action {
+    background-color: #3882f6;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5% 15%;
+    gap: 5%;
+}
+
+.right-content button {
+    width: 100px;
+}
+
